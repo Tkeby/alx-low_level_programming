@@ -1,8 +1,8 @@
 #include <stdio.h>
 
 /**
- * the function prints Programming is like building a multilingual puzzle, 
- * followed by a new line.
+ * main - Prints quote
+ *
  * Return: zero on success
  *
  */
