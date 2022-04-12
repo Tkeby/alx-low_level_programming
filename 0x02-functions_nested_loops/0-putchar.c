@@ -1,9 +1,14 @@
+/*
+ * File: 0-holberton.c
+ * Auth: Tsegaw k
+ *
+ */
 #include "main.h"
 
 /**
  * main - Prints "_putchar" followed by a new line.
  *
- * Return - always returns 0.
+ * return: 0.
  */
 int main(void)
 {
