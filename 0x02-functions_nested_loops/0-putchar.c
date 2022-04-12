@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
- * Desc - Prints "_putchar" followed by a new line.
+ * main - Prints "_putchar" followed by a new line.
  *
- * Success: Return 0.
+ * Return - always returns 0.
  */
 int main(void)
 {
