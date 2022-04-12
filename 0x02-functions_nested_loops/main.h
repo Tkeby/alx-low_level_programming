@@ -2,7 +2,7 @@
 #define MAIN_H
 #include <unistd.h>
 /*
- * File: main.h.h
+ * File: main.h
  * Auth: Tsegaw K
  * Desc: Header file containing declarations for all functions
  *       used in the 0x02-functions_nested_loops directory.
