@@ -1,6 +1,6 @@
 /*
  * File: 101-natural.c
- * Auth: 
+ * Auth:
  */
 
 #include <stdio.h>
