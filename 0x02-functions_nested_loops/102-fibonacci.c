@@ -1,6 +1,6 @@
 /*
  * File: 102-fibonacci.c
- * Auth: 
+ * Auth:
  */
 
 #include <stdio.h>
