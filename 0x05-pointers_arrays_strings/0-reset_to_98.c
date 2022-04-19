@@ -1,4 +1,3 @@
-#include "main.c"
 
 /**
  * reset_to_9
