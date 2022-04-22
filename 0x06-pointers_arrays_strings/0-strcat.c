@@ -2,7 +2,8 @@
 #include <stdio.h>
 
 /**
- * _strcat - ca function that concatenates two strings..
+ * description:_strcat - ca function that
+ * concatenates two strings..
  * @dest: is a pointer type char
  * @src: is a pointer type char
  * Return: Always 0.
